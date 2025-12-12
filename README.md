@@ -4,9 +4,9 @@
 spring 2026
 
 
-1. Math 5
+1. Math 4
 2. data com
-3. Computer graphics
+3. COA
 4. Toc
 5. OPERATING SYSTEM->>>total 15 crdt
 
